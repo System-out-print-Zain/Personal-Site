@@ -22,8 +22,8 @@ title: Zain Mustafa
 email: zz.mhmail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal site exploring the world of CS.
-baseurl: "/Personal-Site" # the subpath of your site, e.g. /blog
-url: "https://system-out-print-zain.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.zmustafa.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  System-out-print-Zain
 
